@@ -37,5 +37,6 @@
 ### Preview of repositories
 #### [WebToImageConverter](https://github.com/DanielHJacobsen/WebToImageConverter)
 
-The Web-to-Image converter uses the config.json file to visit a website, navigates to a defined location, takes a screenshot and save the screenshot in the defined location.
+The Web-to-Image converter uses the config.json file to visit a website, navigates to a defined location, takes a screenshot and save the screenshot in the defined location. 
+A repository ideal for a flexible dashboard slideshow.
 ![](https://github.com/DanielHJacobsen/WebToImageConverter/blob/master/resources/Preview.gif)
