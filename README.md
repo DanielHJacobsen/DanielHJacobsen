@@ -33,3 +33,8 @@
 [![Linux Badge](https://img.shields.io/badge/Linux-lightyellow?logo=Linux&labelColor=black)](#)
 [![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
 *...and more...*
+
+#### Preview of repositories
+[WebToImageConverter](https://github.com/DanielHJacobsen/WebToImageConverter)
+The Web-to-Image converter uses the config.json file to visit a website (with or with authorization), take a screenshot and save the screenshot in the defined location (see the 'image_directory'-property).
+![](https://github.com/DanielHJacobsen/WebToImageConverter/blob/master/resources/Preview.gif)
