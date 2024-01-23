@@ -35,8 +35,7 @@
 *...and more...*
 
 ### Preview of repositories
-#### WebToImageConverter
-The Web-to-Image converter uses the config.json file to visit a website (with or with authorization), take a screenshot and save the screenshot in the defined location (see the 'image_directory'-property).
+#### [WebToImageConverter](https://github.com/DanielHJacobsen/WebToImageConverter)
 
-[Link](https://github.com/DanielHJacobsen/WebToImageConverter)
+The Web-to-Image converter uses the config.json file to visit a website (with or with authorization), take a screenshot and save the screenshot in the defined location (see the 'image_directory'-property).
 ![](https://github.com/DanielHJacobsen/WebToImageConverter/blob/master/resources/Preview.gif)
