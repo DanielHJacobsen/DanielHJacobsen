@@ -15,7 +15,8 @@
 [![Angular Badge](https://img.shields.io/badge/Angular-darkred?logo=Angular&labelColor=black)](#)
 [![SQL Badge](https://img.shields.io/badge/SQL-darkblue?logo=mysql&labelColor=black)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
-...and more...
+[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
+*...and more...*
 
 #### Technologies
 [![Javascript Badge](https://img.shields.io/badge/Docker-2497ed?logo=docker&labelColor=black)](#)
@@ -27,4 +28,7 @@
 [![Firebase Badge](https://img.shields.io/badge/Firebase-yellow?logo=Firebase&labelColor=black)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-green?logo=MongoDB&labelColor=black)](#)
 [![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
-...and more...
+[![Karaf Badge](https://img.shields.io/badge/Karaf-blue)](#)
+[![Linux Badge](https://img.shields.io/badge/Linux-lightyellow?logo=Linux&labelColor=black)](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
+*...and more...*
