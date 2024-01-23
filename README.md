@@ -2,7 +2,7 @@
 - **Job:** Software Engineer // Lead Developer // Software Architect 👨‍💻
 - **Workplace:** Saab Denmark 🛫
 - **Education:** Master Degree - Civil Engineer *(Innovative Communication Technologies and Entrepreneurship)* 👨‍🎓
-- **Blog:** [INTEGU](www.INTEGU.net) *(Give it a read)* 📚
+- **Blog:** [INTEGU](https://integu.net/) *(Give it a read)* 📚
 - **Stackoverflow:** [Link](https://stackoverflow.com/users/3647873/daniel-h-bj%c3%b8rnskov) 
 - **How to reach me:** Send me a message through my blog [Contact](https://integu.net/contact/) 📧
 
