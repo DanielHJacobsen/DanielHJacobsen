@@ -38,4 +38,4 @@
 #### [WebToImageConverter](https://github.com/DanielHJacobsen/WebToImageConverter)
 
 The Web-to-Image converter uses the config.json file to visit a website, navigates to a defined location, takes a screenshot and save the screenshot in the defined location.
-![](https://github.com/DanielHJacobsen/WebToImageConverter/blob/master/resources/Preview.gif =500x300)
+![](https://github.com/DanielHJacobsen/WebToImageConverter/blob/master/resources/Preview.gif)
