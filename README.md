@@ -32,6 +32,7 @@
 [![Karaf Badge](https://img.shields.io/badge/Karaf-blue)](#)
 [![Linux Badge](https://img.shields.io/badge/Linux-lightyellow?logo=Linux&labelColor=black)](#)
 [![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
+[![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-orange)](#)
 *...and more...*
 
 ### Preview of repositories
