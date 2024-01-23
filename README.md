@@ -1,9 +1,10 @@
 ### Hi, I'm Daniel 🤟
-- **Job:** Software Engineer // Lead Developer // Software Architect
-- **Workplace:** Saab Denmark 
-- **Blog:** [INTEGU](www.INTEGU.net) *(Give it a read)*
-- **Stackoverflow:** [Link](https://stackoverflow.com/users/3647873/daniel-h-bj%c3%b8rnskov) *(Give it a read)*
-- **How to reach me:** Send me a message through my blog [Contact](https://integu.net/contact/)
+- **Job:** Software Engineer // Lead Developer // Software Architect 👨‍💻
+- **Workplace:** Saab Denmark 🛫
+- **Education:** Master Degree - Civil Engineer *(Innovative Communication Technologies and Entrepreneurship)* 👨‍🎓
+- **Blog:** [INTEGU](www.INTEGU.net) *(Give it a read)* 📚
+- **Stackoverflow:** [Link](https://stackoverflow.com/users/3647873/daniel-h-bj%c3%b8rnskov) 
+- **How to reach me:** Send me a message through my blog [Contact](https://integu.net/contact/) 📧
 
 #### Languages
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
