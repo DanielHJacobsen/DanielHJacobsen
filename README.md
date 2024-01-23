@@ -14,6 +14,7 @@
 [![Vue Badge](https://img.shields.io/badge/Vue-darkgreen?logo=vuedotjs&labelColor=black)](#)
 [![Angular Badge](https://img.shields.io/badge/Angular-darkred?logo=Angular&labelColor=black)](#)
 [![SQL Badge](https://img.shields.io/badge/SQL-darkblue?logo=mysql&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
 ...and more...
 
 #### Technologies
