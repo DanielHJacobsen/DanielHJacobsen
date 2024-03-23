@@ -7,6 +7,23 @@
 - **LinkedIn:** [Link](https://www.linkedin.com/in/daniel-h%C3%B8yer-jacobsen/) 
 - **How to reach me:** Send me a message through my blog [Contact](https://integu.net/contact/) 📧
 
+### Frontend
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&labelColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
+[![Android Badge](https://img.shields.io/badge/Android-green?logo=Android&labelColor=black)](#)
+[![Vue Badge](https://img.shields.io/badge/Vue-darkgreen?logo=vuedotjs&labelColor=black)](#)
+[![Angular Badge](https://img.shields.io/badge/Angular-red?logo=Angular&labelColor=black)](#)
+[![HTML Badge](https://img.shields.io/badge/HTML-blue?logo=html5&labelColor=black)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS-yellow?logo=css3&labelColor=black)](#)
+[![Gridstack Badge](https://img.shields.io/badge/Gridstack-purple)](#)
+[![Electron Badge](https://img.shields.io/badge/Electron-lightblue?logo=Electron&labelColor=black)](#)
+[![DevExtreme Badge](https://img.shields.io/badge/DevExtreme-red)](#)
+[![NPM Badge](https://img.shields.io/badge/NPM-red?logo=NPM&labelColor=black)](#)
+[![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-blue?logo=Puppeteer&labelColor=black)](#)
+[![Selenium Badge](https://img.shields.io/badge/Selenium-lightblue?logo=Selenium&labelColor=black)](#)
+[![SPA Badge](https://img.shields.io/badge/SPA-grey)](#)
+[![Jest Badge](https://img.shields.io/badge/Jest-red)](#)
+
 ### Backend
 [![Java Badge](https://img.shields.io/badge/Java-red?logo=openjdk&labelColor=black)](#)
 [![Python Badge](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=black)](#)
