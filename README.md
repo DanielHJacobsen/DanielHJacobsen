@@ -48,7 +48,7 @@
 [![Jira Badge](https://img.shields.io/badge/Jira-blue?logo=Jira&labelColor=black)](#)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-lightred?logo=GitHub&labelColor=black)](#)
-[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-purple?logo=intellij-idea&labelColor=black)](#)
 [![PyCharm Badge](https://img.shields.io/badge/PyCharm-yellow)](#)
 [![CodeScene Badge](https://img.shields.io/badge/CodeScene-yellow)](#)
 [![Jekyll_Markdown Badge](https://img.shields.io/badge/Jekyll_Markdown-orange)](#)
