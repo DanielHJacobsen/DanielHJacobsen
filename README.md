@@ -7,34 +7,52 @@
 - **LinkedIn:** [Link](https://www.linkedin.com/in/daniel-h%C3%B8yer-jacobsen/) 
 - **How to reach me:** Send me a message through my blog [Contact](https://integu.net/contact/) 📧
 
-### Languages
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-f0db4f?logo=javascript&labelColor=black)](#)
-[![Java Badge](https://img.shields.io/badge/Java-ec2025?logo=openjdk&labelColor=black)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&labelColor=black)](#)
+### Backend
+[![Java Badge](https://img.shields.io/badge/Java-red?logo=openjdk&labelColor=black)](#)
 [![Python Badge](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=black)](#)
-[![Android Badge](https://img.shields.io/badge/Android-green?logo=Android&labelColor=black)](#)
-[![Vue Badge](https://img.shields.io/badge/Vue-darkgreen?logo=vuedotjs&labelColor=black)](#)
-[![Angular Badge](https://img.shields.io/badge/Angular-darkred?logo=Angular&labelColor=black)](#)
-[![SQL Badge](https://img.shields.io/badge/SQL-darkblue?logo=mysql&labelColor=black)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML-darkred?logo=html5&labelColor=black)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-yellow)](#)
-*...and more...*
-
-### Technologies
-[![Javascript Badge](https://img.shields.io/badge/Docker-2497ed?logo=docker&labelColor=black)](#)
-[![Ansigle Badge](https://img.shields.io/badge/Ansible-red?logo=Ansible&labelColor=black)](#)
-[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
-[![Electron Badge](https://img.shields.io/badge/Electron-darkblue?logo=Electron&labelColor=black)](#)
-[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
-[![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
+[![SQL Badge](https://img.shields.io/badge/SQL-blue?logo=mysql&labelColor=black)](#)
 [![Firebase Badge](https://img.shields.io/badge/Firebase-yellow?logo=Firebase&labelColor=black)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-green?logo=MongoDB&labelColor=black)](#)
-[![NPM Badge](https://img.shields.io/badge/NPM-darkred?logo=NPM&labelColor=black)](#)
-[![Karaf Badge](https://img.shields.io/badge/Karaf-blue)](#)
-[![Linux Badge](https://img.shields.io/badge/Linux-lightyellow?logo=Linux&labelColor=black)](#)
-[![Maven Badge](https://img.shields.io/badge/Maven-darkred)](#)
-[![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-orange)](#)
-*...and more...*
+[![Redis Badge](https://img.shields.io/badge/Redis-red?logo=Redis&labelColor=black)](#)
+[![Karaf Badge](https://img.shields.io/badge/Karaf-grey)](#)
+[![Maven Badge](https://img.shields.io/badge/Maven-lightred)](#)
+[![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-red)](#)
+[![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-lightgreen)](#)
+[![Pitest Badge](https://img.shields.io/badge/Pitest-purple)](#)
+
+### Full-stack
+[![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
+[![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-lightblue?logo=JSON&labelColor=black)](#)
+[![Microservice Badge](https://img.shields.io/badge/Microservice-green)](#)
+[![API_design Badge](https://img.shields.io/badge/API_design-grey)](#)
+
+### Dev-Ops
+[![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
+[![Docker Badge](https://img.shields.io/badge/Docker-blue?logo=docker&labelColor=black)](#)
+[![Artifactory/Jfrog Badge](https://img.shields.io/badge/Artifactory/Jfrog-green)](#)
+[![SSH Badge](https://img.shields.io/badge/SSH-lightblue)](#)
+[![Ansible Badge](https://img.shields.io/badge/Ansible-lightred?logo=Ansible&labelColor=black)](#)
+[![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
+[![Linux Badge](https://img.shields.io/badge/Linux-grey?logo=Linux&labelColor=black)](#)
+[![RPM Badge](https://img.shields.io/badge/RPM-lightred)](#)
+[![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-yellow)](#)
+[![Bash/SH Badge](https://img.shields.io/badge/Bash/SH_scripting-lightgreen)](#)
+[![VMWare Badge](https://img.shields.io/badge/VMWare-blue?logo=VMWare&labelColor=black)](#)
+[![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightyellow)](#)
+
+### Tools
+[![Draw.io Badge](https://img.shields.io/badge/Draw.io-yellow)](#)
+[![Confluence Badge](https://img.shields.io/badge/Confluence-lightblue?logo=Confluence&labelColor=black)](#)
+[![Arc42 Badge](https://img.shields.io/badge/Arc42-lightred)](#)
+[![ED_109 Badge](https://img.shields.io/badge/ED109-grey)](#)
+[![Jira Badge](https://img.shields.io/badge/Jira-blue?logo=Jira&labelColor=black)](#)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&labelColor=black)](#)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-lightred?logo=GitHub&labelColor=black)](#)
+[![IntelliJ Badge](https://img.shields.io/badge/IntelliJ-{{page.color}}?logo=intellij-idea&labelColor=black)](#)
+[![PyCharm Badge](https://img.shields.io/badge/PyCharm-yellow)](#)
+[![CodeScene Badge](https://img.shields.io/badge/CodeScene-yellow)](#)
+[![Jekyll_Markdown Badge](https://img.shields.io/badge/Jekyll_Markdown-orange)](#)
+[![Wireshark Badge](https://img.shields.io/badge/Wireshark-blue)](#)
 
 ### Preview of repositories
 #### [WebToImageConverter](https://github.com/DanielHJacobsen/WebToImageConverter)
