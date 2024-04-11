@@ -33,6 +33,7 @@
 [![Redis Badge](https://img.shields.io/badge/Redis-red?logo=Redis&labelColor=black)](#)
 [![Karaf Badge](https://img.shields.io/badge/Karaf-grey)](#)
 [![Maven Badge](https://img.shields.io/badge/Maven-lightred)](#)
+[![Gradle Badge](https://img.shields.io/badge/Gradle-green?logo=Gradle&labelColor=black)](#)
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-red)](#)
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-lightgreen)](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-purple)](#)
