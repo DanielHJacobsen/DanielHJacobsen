@@ -37,6 +37,7 @@
 [![JUnit/Mockito Badge](https://img.shields.io/badge/JUnit/Mockito-red)](#)
 [![Concurrency/Multithreading Badge](https://img.shields.io/badge/Concurrency/Multithreading-lightgreen)](#)
 [![Pitest Badge](https://img.shields.io/badge/Pitest-purple)](#)
+[![LDAP Badge](https://img.shields.io/badge/LDAP-purple)](#)
 
 ### Full-stack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
