@@ -26,6 +26,7 @@
 
 ### Backend
 [![Java Badge](https://img.shields.io/badge/Java-red?logo=openjdk&labelColor=black)](#)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=springboot&labelColor=black)](#)
 [![Python Badge](https://img.shields.io/badge/Python-blue?logo=Python&labelColor=black)](#)
 [![SQL Badge](https://img.shields.io/badge/SQL-blue?logo=mysql&labelColor=black)](#)
 [![Firebase Badge](https://img.shields.io/badge/Firebase-yellow?logo=Firebase&labelColor=black)](#)
