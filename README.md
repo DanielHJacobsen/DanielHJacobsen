@@ -80,3 +80,8 @@
 The Web-to-Image converter uses the config.json file to visit a website, navigates to a defined location, takes a screenshot and save the screenshot in the defined location. 
 A repository ideal for a flexible dashboard slideshow.
 ![](https://github.com/DanielHJacobsen/WebToImageConverter/blob/master/resources/Preview.gif)
+
+#### [BankBook](https://github.com/DanielHJacobsen/BankBook)
+
+A basic Java Spring application, which provides both REST interface as well as static HTML webpages through its API interfaces. The application is setup to be deployed within a Docker compose setup, together with a MySQL database.
+![](https://raw.githubusercontent.com/DanielHJacobsen/BankBook/refs/heads/master/documentation/bankbook.jpg)
