@@ -62,6 +62,7 @@
 [![Bash/SH Badge](https://img.shields.io/badge/Bash/SH_scripting-lightgreen)](#)
 [![VMWare Badge](https://img.shields.io/badge/VMWare-blue?logo=VMWare&labelColor=black)](#)
 [![CI/CD Badge](https://img.shields.io/badge/CI/CD-lightyellow)](#)
+[![Network configuration Badge](https://img.shields.io/badge/Network_configuration-blue)](#)
 
 ### Tools
 [![Draw.io Badge](https://img.shields.io/badge/Draw.io-yellow)](#)
