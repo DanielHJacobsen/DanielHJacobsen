@@ -6,6 +6,7 @@
 - **Stackoverflow:** [Link](https://stackoverflow.com/users/3647873/daniel-h-bj%c3%b8rnskov)
 - **LinkedIn:** [Link](https://www.linkedin.com/in/daniel-h%C3%B8yer-jacobsen/) 
 - **How to reach me:** Send me a message through my blog [Contact](https://integu.net/contact/) 📧
+- **(Fun fact) My brewery:** [Bjørnskovgaard.dk](https://bjoernskovgaard.dk/vores-ol/) 🍺
 
 ### Frontend
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&labelColor=black)](#)
@@ -43,8 +44,9 @@
 ### Full-stack
 [![MQTT Badge](https://img.shields.io/badge/MQTT-purple?logo=MQTT&labelColor=black)](#)
 [![JSON Schema Badge](https://img.shields.io/badge/JSON_Schema-lightblue?logo=JSON&labelColor=black)](#)
-[![Microservice Badge](https://img.shields.io/badge/Microservice-green)](#)
+[![Microservices Badge](https://img.shields.io/badge/Microservices-green)](#)
 [![API_design Badge](https://img.shields.io/badge/API_design-grey)](#)
+[![Event-driven Architecture Badge](https://img.shields.io/badge/Event--driven_Architecture-blue)](#)
 
 ### Dev-Ops
 [![Git Badge](https://img.shields.io/badge/Git-darkred?logo=Git&labelColor=black)](#)
@@ -53,6 +55,7 @@
 [![SSH Badge](https://img.shields.io/badge/SSH-lightblue)](#)
 [![Ansible Badge](https://img.shields.io/badge/Ansible-lightred?logo=Ansible&labelColor=black)](#)
 [![TeamCity Badge](https://img.shields.io/badge/TeamCity-green?logo=TeamCity&labelColor=black)](#)
+[![GitLab Badge](https://img.shields.io/badge/GitLab-orange?logo=GitLab&labelColor=black)](#)
 [![Linux Badge](https://img.shields.io/badge/Linux-grey?logo=Linux&labelColor=black)](#)
 [![RPM Badge](https://img.shields.io/badge/RPM-lightred)](#)
 [![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-yellow)](#)
@@ -62,6 +65,7 @@
 
 ### Tools
 [![Draw.io Badge](https://img.shields.io/badge/Draw.io-yellow)](#)
+[![Dependency-Track Badge](https://img.shields.io/badge/Dependency--Track-purple)](#)
 [![Confluence Badge](https://img.shields.io/badge/Confluence-lightblue?logo=Confluence&labelColor=black)](#)
 [![Arc42 Badge](https://img.shields.io/badge/Arc42-lightred)](#)
 [![ED_109 Badge](https://img.shields.io/badge/ED109-grey)](#)
